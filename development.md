@@ -13,25 +13,36 @@ Reach out to vote for these and other features in development.
   etc)
 
 #### Recent Updates
-- 2.3.4 (July 2022):
+- 2.7 (In work):
+  - Overhaul of PDF creation
+  - Bug fixes
+  - Performance improvements
+- 2.6 (September 2022):
+  - Back-end overhaul for faster loading
+  - New date/time pickers
+  - Add function to allow bigger time inputs (entering all 9's)
+  - Bug fixes
+  - Performance improvements
+- 2.5 (August 2022):
+  - Bug fixes
+  - Performance improvements
+- 2.4 (August 2022):
+  - Add waypoints to .gpx file output
   - Added waypoint upload utility for .csv files
-  - Performance improvements for large courses
-  - UI enhancements
-- 2.3.3 (July 2022):
-  - Minor stability/performance improvements
-- 2.3.2 (July 2022):
   - New search page (in beta)
   - Added "Searchable" option on Course Edit page
   - Allowing cutoffs >99 hours for long courses
   - Added waypoint upload utility for .gpx files
-- 2.3.1 (June 2022)
   - Allow target times of >99 hours for long courses
   - Add course reverse utility
-  - Minor stability improvements
-- 2.3.0 (May 2022)
+  - UI enhancements
+  - Stability improvements
+  - Performance improvements
+  - Bug fixes
+- 2.3 (May 2022)
   - Implemented **cutoff pacing** options
   - Overhaul charts for better performance
-- 2.2.2 (April 2022)
+- 2.2 (April 2022)
   - Add race request widget
   - Updated email/communication tools
   - Minor performance improvements
