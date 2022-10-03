@@ -2,7 +2,6 @@ ultraPacer is a work in progress and getting better all the time.
 
 #### What's up next?
 Reach out to vote for these and other features in development.
-- **A new search feature has been added and is currently in beta testing**.
 - Improved printing (customizable fields, bib-size queue card, etc)
 - Dynamic heat model utilizing weather forecasts
 - Social/User-based features (eg sharing, permissions, feedback,
