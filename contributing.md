@@ -17,8 +17,7 @@ Want to contribute to the ultraPacer project? Yes, please!
   official races and submit them for addition to the races page.
 
 #### Contribute Financially
-1. You can donate to the project via
-  <a href="https://buymeacoffee.com/ultrapacer" target="_blank">Buy Me a Coffee</a>.
+1. You can contribute financially by signing up as a member through the Settings page.
 2. If you represent a brand, consider becoming a sponsor of the project.
   Your brand will be presented as a sponsor throughout the ultraPacer
   platform. Reach out to me for more info.
