@@ -12,7 +12,10 @@ Reach out to vote for these and other features in development.
   etc)
 
 #### Recent Updates
-- 2.7 (In work):
+- 2.8 (In development):
+  - Map zoom feature (beta)
+  - Bug fixes & performance improvements
+- 2.7 (October 2022):
   - Overhaul of PDF creation
   - Bug fixes
   - Performance improvements
