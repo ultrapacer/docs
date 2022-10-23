@@ -12,22 +12,20 @@ Reach out to vote for these and other features in development.
   etc)
 
 #### Recent Updates
-- 2.8 (In development):
-  - Map zoom feature (beta)
+- [Beta](https://beta.ultrapacer.com):
   - Bug fixes & performance improvements
 - 2.7 (October 2022):
+  - Map fullscreen feature
   - Overhaul of PDF creation
-  - Bug fixes
-  - Performance improvements
+  - Documentation improvements
+  - Bug fixes & performance improvements
 - 2.6 (September 2022):
   - Back-end overhaul for faster loading
   - New date/time pickers
   - Add function to allow bigger time inputs (entering all 9's)
-  - Bug fixes
-  - Performance improvements
+  - Bug fixes & performance improvements
 - 2.5 (August 2022):
-  - Bug fixes
-  - Performance improvements
+  - Bug fixes & performance improvements
 - 2.4 (August 2022):
   - Add waypoints to .gpx file output
   - Added waypoint upload utility for .csv files
@@ -39,8 +37,7 @@ Reach out to vote for these and other features in development.
   - Add course reverse utility
   - UI enhancements
   - Stability improvements
-  - Performance improvements
-  - Bug fixes
+  - Bug fixes & performance improvements
 - 2.3 (May 2022)
   - Implemented **cutoff pacing** options
   - Overhaul charts for better performance
