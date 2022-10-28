@@ -15,7 +15,8 @@ Reach out to vote for these and other features in development.
 - [Beta](https://beta.ultrapacer.com):
   - Bug fixes & performance improvements
 - 2.7 (October 2022):
-  - Allow fixed timezone for events going through standard/daylight time change
+  - Fix login issue on some browsers (thanks Tomo! thanks Sam!)
+  - Allow fixed timezone for events going through standard/daylight time change (thanks John! thanks Ryan!)
   - Added day of the week with times where event spans multiple days
   - Map fullscreen feature
   - Overhaul of PDF creation
