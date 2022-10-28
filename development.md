@@ -16,6 +16,7 @@ Reach out to vote for these and other features in development.
   - Bug fixes & performance improvements
 - 2.7 (October 2022):
   - Allow fixed timezone for events going through standard/daylight time change
+  - Added day of the week with times where event spans multiple days
   - Map fullscreen feature
   - Overhaul of PDF creation
   - Documentation improvements
