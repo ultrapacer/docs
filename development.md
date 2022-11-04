@@ -2,7 +2,7 @@ ultraPacer is a work in progress and getting better all the time.
 
 #### What's up next?
 Reach out to vote for these and other features in development.
-- Improved printing (customizable fields, bib-size queue card, etc)
+- Improved printing (customizable fields, sizes, etc)
 - Dynamic heat model utilizing weather forecasts
 - Social/User-based features (eg sharing, permissions, feedback,
   collaboration)
@@ -10,9 +10,11 @@ Reach out to vote for these and other features in development.
   live tracking services)
 - Continued improvement of models (terrain, grade, altitude, heat, fatigue,
   etc)
+- Realtime watch support
 
 #### Recent Updates
 - [Beta](https://beta.ultrapacer.com):
+  - New feature (members only) to adjust athlete altitude acclimatization & comfort in darkness
   - Bug fixes & performance improvements
 - 2.7 (October 2022):
   - Fix login issue on some browsers (thanks Tomo! thanks Sam!)
