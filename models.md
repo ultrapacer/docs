@@ -17,7 +17,7 @@ The altitude model is an exponentially increasing factor. The default model has
 a lower threshold of 750 meters, under which altitude is assumed to be
 insignificant. Above 750 meters, the time to run a given distance increases at
 a rate of 6% every 1000 meters, compounded continuously.
-Users can change the altitude model threshold and rate on their Settings page.\
+Users can adjust their altitude acclimatization on the Settings page.\
 ![ultraPacer Altitude Model](./img/altModel.png)
 
 ##### Terrain
@@ -47,7 +47,8 @@ From dusk to dawn, a darkness factor equal to the terrain factor is applied
 (essentially doubling the terrain factor).
 During twilight hours (from dawn to sunrise and sunset to dusk), the darkness
 factor is linearly applied between nothing (daytime) and the full darkness
-factor.
+factor.\
+Users can personalize the affect of darkness on the Settings page.
 
 ##### Pacing Strategy
 Pacing strategy is intentional/planned changes in level of effort through the

@@ -14,9 +14,11 @@ Reach out to vote for these and other features in development.
 
 #### Recent Updates
 - [Beta](https://beta.ultrapacer.com):
+  - Bug fixes & performance improvements
+- 2.7.5 to 2.7.6 (November 2022):
   - New feature (members only) to adjust athlete altitude acclimatization & comfort in darkness
   - Bug fixes & performance improvements
-- 2.7 (October 2022):
+- 2.7.0 to 2.7.4 (October 2022):
   - Fix login issue on some browsers (thanks Tomo! thanks Sam!)
   - Allow fixed timezone for events going through standard/daylight time change (thanks John! thanks Ryan!)
   - Added day of the week with times where event spans multiple days
