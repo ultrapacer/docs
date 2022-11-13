@@ -14,8 +14,10 @@ Reach out to vote for these and other features in development.
 
 #### Recent Updates
 - [Beta](https://beta.ultrapacer.com):
+  - New "Dashboard" replacing "My Courses"
+  - Ability to pin content to show up on your Dashboard
   - Bug fixes & performance improvements
-- 2.7.5 to 2.7.6 (November 2022):
+- 2.7.5 to 2.7.9 (November 2022):
   - New feature (members only) to adjust athlete altitude acclimatization & comfort in darkness
   - Bug fixes & performance improvements
 - 2.7.0 to 2.7.4 (October 2022):
