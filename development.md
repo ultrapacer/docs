@@ -2,7 +2,8 @@ ultraPacer is a work in progress and getting better all the time.
 
 #### What's up next?
 Reach out to vote for these and other features in development.
-- Improved printing (customizable fields, sizes, etc)
+- More charting and data visualization options
+- Overhaul Races page given the quantity of races
 - Dynamic heat model utilizing weather forecasts
 - Social/User-based features (eg sharing, permissions, feedback,
   collaboration)
@@ -14,13 +15,16 @@ Reach out to vote for these and other features in development.
 
 #### Recent Updates
 - [Beta](https://beta.ultrapacer.com):
-  - New "Dashboard" replacing "My Courses"
+  - Bug fixes & performance improvements
+- 2.8 (November 2022):
+  - New "Dashboard" replaced "My Courses"
   - Ability to pin content to show up on your Dashboard
+  - Updated chart interface/data
+  - New customizable print options (members only)
   - Bug fixes & performance improvements
-- 2.7.5 to 2.7.9 (November 2022):
-  - New feature (members only) to adjust athlete altitude acclimatization & comfort in darkness
+- 2.7 (October, November 2022):
+  - New feature to adjust athlete altitude acclimatization & comfort in darkness (members only)
   - Bug fixes & performance improvements
-- 2.7.0 to 2.7.4 (October 2022):
   - Fix login issue on some browsers (thanks Tomo! thanks Sam!)
   - Allow fixed timezone for events going through standard/daylight time change (thanks John! thanks Ryan!)
   - Added day of the week with times where event spans multiple days
