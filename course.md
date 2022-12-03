@@ -6,8 +6,8 @@ If you do not already have one, create an account on ultraPacer by logging in.
 There will be a **"Login/Signup"** link in the top menu if you are not signed
 in.
 
-##### Courses list
-Go to your courses list using the **"My Courses"** link in the top menu.
+##### Dashboard
+Find any courses you've created at the **"Dashboard"** link in the top menu.
 
 ##### Create a course
 Click on the green **"New Course"** button at the top of the page.
@@ -75,7 +75,7 @@ section below.
 
 #### Modifying a Course
 You can later modify any of the settings above for courses you own using the
-"Edit" button from the "My Courses" page or "Actions"->"Modify Course" from the
+"Edit" button from the "Dasboard" page or "Actions"->"Modify Course" from the
 course page itself.
 
 #### Duplicating a Course
