@@ -16,6 +16,11 @@ Reach out to vote for these and other features in development.
 #### Recent Updates
 - [Beta](https://beta.ultrapacer.com):
   - Bug fixes & performance improvements
+- 2.9 (January thru March 2023):
+  - Reworked splits tables
+  - Add climbs splits table (members only)
+  - Add .CSV export (members only)
+  - Bug fixes & performance improvements
 - 2.8 (December 2022):
   - New "Dashboard" replaced "My Courses"
   - Ability to pin content to show up on your Dashboard
