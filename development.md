@@ -14,7 +14,7 @@ Reach out to vote for these and other features in development.
 - Realtime watch support
 
 #### Recent Updates
-- [Beta](https://beta.ultrapacer.com):
+- [ultraPacer Beta version](https://beta.ultrapacer.com):
   - Bug fixes & performance improvements
 - 2.9 (January thru March 2023):
   - Reworked splits tables
