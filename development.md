@@ -18,7 +18,7 @@ Reach out to vote for these and other features in development.
   - Bug fixes & performance improvements
 - 2.9 (January thru March 2023):
   - Reworked splits tables
-  - Add climbs splits table (members only)
+  - Add climbs and descents splits table (members only)
   - Add .CSV export (members only)
   - Bug fixes & performance improvements
 - 2.8 (December 2022):
