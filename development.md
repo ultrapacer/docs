@@ -1,7 +1,9 @@
 ultraPacer is a work in progress and getting better all the time.
 
 #### What's up next?
+
 Reach out to vote for these and other features in development.
+
 - More charting and data visualization options
 - Overhaul Races page given the quantity of races
 - Dynamic heat model utilizing weather forecasts
@@ -14,7 +16,32 @@ Reach out to vote for these and other features in development.
 - Realtime watch support
 
 #### Recent Updates
+
 - [ultraPacer Beta version](https://beta.ultrapacer.com):
+  - Bug fixes & performance improvements
+- 2.13 (August 2023 thru September 2023):
+  - Add course creation progress bar
+  - Add waypoint create from map click
+  - Deprecated waypoint description
+  - Rewrote embeddable widgets
+  - Updated time formatting specific to user locale
+  - Add waypoint dropbag and crew tags
+  - Bug fixes & performance improvements
+- 2.12 (June 2023 thru August 2023):
+  - Add new map layer (Thunderforest Landscape) as default
+  - Add waypoint numbers to tables, maps, and profile
+  - Add new "plan notes" vs "course notes" options for waypoints
+  - Rework user alias and profile
+  - Add "official" race tag
+  - Add emails for membership status changes
+  - Rework time inputs and enforce realistic limits
+  - Dynamic resizing and filtering of table columns for different screen sizes
+  - Bug fixes & performance improvements
+- 2.11 (May 2023 thru June 2023):
+  - Bug fixes & performance improvements
+- 2.10 (April 2023 thru May 2023):
+  - Overhaul course page front-end for huge speed improvements
+  - Enable editing prior to saving for courses and plans
   - Bug fixes & performance improvements
 - 2.9 (January thru March 2023):
   - Reworked splits tables
