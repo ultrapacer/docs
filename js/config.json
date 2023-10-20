@@ -45,6 +45,11 @@
     "path": "embeddables"
   },
   {
+    "file": "coaching.md",
+    "name": "Coaching Tools",
+    "path": "coaching"
+  },
+  {
     "file": "contributing.md",
     "name": "Want to Contribute?",
     "path": "contributing"
