@@ -4,4 +4,4 @@ You can embed ultraPacer aid station splits data directly into your web page.
 
 Go to [https://widgets.ultrapacer.com](https://widgets.ultrapacer.com/) for instructions and demo.
 
-Embeddable maps and elevation profiles will be coming soon!
+A new embeddable widget with map and elevation profiles is now available at the link above (in beta)!
