@@ -5,16 +5,15 @@ This guide will step you through creating a new Course.
 ##### Login/Signup
 
 If you do not already have one, create an account on ultraPacer by logging in.
-There will be a **"Login/Signup"** link in the top menu if you are not signed
-in.
+Find the **"Login/Signup"** option at the top right of the page.
 
 ##### Dashboard
 
-Find any courses you've created at the **"Dashboard"** link in the top menu.
+Find any courses you've created at the **"Dashboard"** link in the top menu and then go to the **Courses** tab.
 
 ##### Create a course
 
-Click on the green **"New Course"** button at the top of the page.
+From the **Dashboard**, click on on the green **"New Course"** button at the top of the page.
 
 #### New/Modify Course Menu
 
