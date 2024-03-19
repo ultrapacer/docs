@@ -21,6 +21,7 @@ a lower threshold of 750 meters, under which altitude is assumed to be
 insignificant. Above 750 meters, the time to run a given distance increases at
 a rate of 6% every 1000 meters, compounded continuously.
 Users can adjust their altitude acclimatization on the Settings page.\
+This model is based on research from Jon Peter Wehrlin & Jostein Hallén [1], which indicates a 6.3% decrease in VO<sub>2,max</sub> per 1000m.
 ![ultraPacer Altitude Model](./img/altModel.png)
 
 ##### Terrain
@@ -87,3 +88,6 @@ Additional research can help to improve the models underpinning ultraPacer. Topi
 If you know of existing research that could/should be incorporated into ultraPacer, please send it my way.
 
 We are also able to provide (minimal) financial assistance for graduate students or professors who are interested in pursuing research that can further enhance ultraPacer's capabilities.
+
+#### Citations
+1. Wehrlin, J.P., Hallén, J. Linear decrease in and performance with increasing altitude in endurance athletes. Eur J Appl Physiol 96, 404–412 (2006). [https://doi.org/10.1007/s00421-005-0081-9](https://doi.org/10.1007/s00421-005-0081-9)
